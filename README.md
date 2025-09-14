@@ -2,6 +2,11 @@
 
 I'm an independent software/algorithm engineer and researcher. 
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/yoyolicoris/yoyolicoris/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/yoyolicoris/yoyolicoris/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
 ## Scientific packages
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoyolicoris&repo=kamui&theme=synthwave)](https://github.com/yoyolicoris/kamui)
