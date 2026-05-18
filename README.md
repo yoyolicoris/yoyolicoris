@@ -13,7 +13,7 @@ I'm an independent software/algorithm engineer and researcher.
 [![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=pytorch-NMF&theme=synthwave)](https://github.com/yoyolicoris/pytorch-NMF)
 [![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=kazane&theme=synthwave)](https://github.com/yoyolicoris/kazane)
 [![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=spectrogram-inversion&theme=synthwave)](https://github.com/yoyolicoris/spectrogram-inversion)
-[![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=fft-conv-pytorch&theme=synthwave)](https://github.com/yoyolicoris/fft-conv-pytorch)
+[![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=fft-conv-pytorch&theme=synthwave)](https://github.com/yoyolicoris/torch-fftconv)
 
 ## Paper re-implementations
 
