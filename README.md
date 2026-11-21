@@ -9,6 +9,7 @@ I'm an independent software/algorithm engineer and researcher.
 
 ## Scientific packages
 
+[![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=philtorch&theme=synthwave)](https://github.com/yoyolicoris/philtorch)
 [![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=kamui&theme=synthwave)](https://github.com/yoyolicoris/kamui)
 [![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=pytorch-NMF&theme=synthwave)](https://github.com/yoyolicoris/pytorch-NMF)
 [![Readme Card](https://github-readme-stats-hazel-three-54.vercel.app/api/pin/?username=yoyolicoris&repo=kazane&theme=synthwave)](https://github.com/yoyolicoris/kazane)
